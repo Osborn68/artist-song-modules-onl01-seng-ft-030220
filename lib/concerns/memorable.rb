@@ -9,3 +9,4 @@ module Memorable
       self.count.all 
     end 
   end 
+end
